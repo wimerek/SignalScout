@@ -47,7 +47,7 @@ Rank columns use exact metric names: `height, weight, arm_length, forty, vertica
 
 In Streamlit Community Cloud secrets, add:
 ```toml
-ADMIN_PASSWORD = "your_password_here"
+ADMIN_PASSWORD = "Festus.4"
 ```
 
 ## Positions Supported
