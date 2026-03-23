@@ -1,0 +1,12 @@
+position,height_avg,weight_avg,arm_length_avg,forty_avg,vertical_avg,broad_jump_avg,three_cone_avg,shuttle_avg,rank1,rank2,rank3,rank4
+RB,5100,210,30,4.5,35,120,7.25,4.4,vertical,broad_jump,forty,shuttle
+WR,6000,195,31,4.45,36,125,6.9,4.3,forty,vertical,shuttle,broad_jump
+TE,6040,250,32,4.75,34,115,7.25,4.4,vertical,arm_length,shuttle,broad_jump
+OT,6050,315,33,5.25,30,100,7.8,4.7,arm_length,vertical,shuttle,broad_jump
+IOL,6030,310,32,5.25,30,100,7.8,4.7,arm_length,vertical,shuttle,broad_jump
+DT,6020,300,33,5.15,30,100,7.8,4.7,arm_length,vertical,shuttle,broad_jump
+EDGE,6030,255,33,4.75,33,115,7.25,4.5,arm_length,vertical,shuttle,broad_jump
+LB,6010,235,31,4.55,34,115,7.25,4.4,forty,vertical,shuttle,broad_jump
+CB,6000,190,31,4.45,36,125,7.1,4.3,forty,vertical,arm_length,shuttle
+S,6000,200,30,4.5,35,120,7.25,4.4,vertical,forty,shuttle,broad_jump
+QB,6010,215,,,,,,,,, 
